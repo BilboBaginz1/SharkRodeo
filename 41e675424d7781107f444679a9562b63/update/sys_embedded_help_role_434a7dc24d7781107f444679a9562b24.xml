@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_cdltd_shark_rode.task_user" name="x_cdltd_shark_rode.task_user">874a7dc24d7781107f444679a9562b21</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-01 19:40:41</sys_created_on>
+        <sys_id>434a7dc24d7781107f444679a9562b24</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>874a7dc24d7781107f444679a9562b21</sys_name>
+        <sys_package display_value="Shark Rodeo" source="x_cdltd_shark_rode">41e675424d7781107f444679a9562b63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Rodeo">41e675424d7781107f444679a9562b63</sys_scope>
+        <sys_update_name>sys_embedded_help_role_434a7dc24d7781107f444679a9562b24</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-01 19:40:41</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

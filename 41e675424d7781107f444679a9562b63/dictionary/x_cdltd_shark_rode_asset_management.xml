@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="cmdb_ci_hardware" label="Asset Management" max_length="40" name="x_cdltd_shark_rode_asset_management" sizeclass="0" type="collection">
+        <element label="New Due Date" max_length="40" name="u_due_date_1" type="due_date"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" default="cages" label="Categories" mandatory="true" max_length="40" name="u_choice_1" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Diving Equipment" sequence="0" value="diving equipment"/>
+                <element inactive_on_update="false" label="Cages" sequence="1" value="cages"/>
+                <element inactive_on_update="false" label="Boating Equipment" sequence="2" value="boating equipment"/>
+                <element inactive_on_update="false" label="Weaponry" sequence="3" value="weaponry"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="New Calendar Date/Time" max_length="40" name="u_calendar_date_time_2" type="calendar_date_time"/>
+    </element>
+</database>

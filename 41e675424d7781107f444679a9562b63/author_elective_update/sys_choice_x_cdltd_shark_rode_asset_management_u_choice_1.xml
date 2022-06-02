@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_choice_1" table="x_cdltd_shark_rode_asset_management" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_choice_1</element>
+            <name>x_cdltd_shark_rode_asset_management</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 20:45:47</sys_created_on>
+            <sys_id>243902864db781107f444679a9562bdf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_choice_1</sys_name>
+            <sys_package display_value="Shark Rodeo" source="x_cdltd_shark_rode">41e675424d7781107f444679a9562b63</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Shark Rodeo">41e675424d7781107f444679a9562b63</sys_scope>
+            <sys_update_name>sys_choice_x_cdltd_shark_rode_asset_management_u_choice_1</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 20:45:47</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Diving Equipment</label>
+            <language>en</language>
+            <name>x_cdltd_shark_rode_asset_management</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 20:45:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac3902864db781107f444679a9562bde</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 20:45:47</sys_updated_on>
+            <value>diving equipment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Cages</label>
+            <language>en</language>
+            <name>x_cdltd_shark_rode_asset_management</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 20:45:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>243902864db781107f444679a9562be4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 20:45:47</sys_updated_on>
+            <value>cages</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Boating Equipment</label>
+            <language>en</language>
+            <name>x_cdltd_shark_rode_asset_management</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 20:45:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac3902864db781107f444679a9562bf4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 20:45:47</sys_updated_on>
+            <value>boating equipment</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_choice_1</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Weaponry</label>
+            <language>en</language>
+            <name>x_cdltd_shark_rode_asset_management</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-06-01 20:45:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>603902864db781107f444679a9562bf9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-06-01 20:45:47</sys_updated_on>
+            <value>weaponry</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
