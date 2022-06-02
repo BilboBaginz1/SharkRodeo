@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 17:24:31</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>47a42ade2cfb01107f44d1dab3cb70f4</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Shark Rodeo" source="x_cdltd_shark_rode">41e675424d7781107f444679a9562b63</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Shark Rodeo">41e675424d7781107f444679a9562b63</sys_scope>
+        <sys_update_name>sys_app_application_47a42ade2cfb01107f44d1dab3cb70f4</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 17:24:31</sys_updated_on>
+        <title>Request</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Shark Rodeo">41e675424d7781107f444679a9562b63</application>
+        <file_path/>
+        <instance_id>9c640ca5db73c5543e1000b5ca961927</instance_id>
+        <instance_name>adf-may-425-dev-018</instance_name>
+        <name>sys_app_application_47a42ade2cfb01107f44d1dab3cb70f4</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-06-02 17:24:31</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>47a42ade2cfb01107f44d1dab3cb70f4</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Request</sys_name><sys_overrides/><sys_package display_value="Shark Rodeo" source="x_cdltd_shark_rode">41e675424d7781107f444679a9562b63</sys_package><sys_policy/><sys_scope display_value="Shark Rodeo">41e675424d7781107f444679a9562b63</sys_scope><sys_update_name>sys_app_application_47a42ade2cfb01107f44d1dab3cb70f4</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-06-02 17:24:31</sys_updated_on><title>Request</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>1887320962</payload_hash>
+        <record_name>Request</record_name>
+        <reverted_from/>
+        <source>5efcf99a2c7b01107f44d1dab3cb70be</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 17:24:31</sys_created_on>
+        <sys_id>8ab46ade2cfb01107f44d1dab3cb70b6</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1812572852f0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 17:24:31</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>c2b46adebcfb01106daebe0969fb3eb6</update_guid>
+        <update_guid_history>c2b46adebcfb01106daebe0969fb3eb6:1887320962</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Request">039766922c3f01107f44d1dab3cb70dc</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-06-02 17:37:08</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>4d9ab1deb7ea4848ba5aa335ea19f4e1</sys_id>
+        <sys_metadata>47a42ade2cfb01107f44d1dab3cb70f4</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request</sys_name>
+        <sys_package display_value="Shark Rodeo" source="x_cdltd_shark_rode">41e675424d7781107f444679a9562b63</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Shark Rodeo">41e675424d7781107f444679a9562b63</sys_scope>
+        <sys_scope_delete display_value="">58b6dfc459ae48c8a32fb12463f5a440</sys_scope_delete>
+        <sys_update_name>sys_app_application_47a42ade2cfb01107f44d1dab3cb70f4</sys_update_name>
+        <sys_update_version display_value="sys_app_application_47a42ade2cfb01107f44d1dab3cb70f4">8ab46ade2cfb01107f44d1dab3cb70b6</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-06-02 17:37:08</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
